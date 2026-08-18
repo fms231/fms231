@@ -17,8 +17,8 @@
 
 
 #### Education
-![USTC](https://img.shields.io/badge/USTC-M.S._Student-004098?style=for-the-badge)
-![Location](https://img.shields.io/badge/Hefei,_China-004098?style=flat-square)
+![USTC](https://img.shields.io/badge/USTC-M.S._Student-004098?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Hefei,_China-004098?style=for-the-badge)
 
 
 #### Work Experience
