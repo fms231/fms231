@@ -22,9 +22,9 @@
 
 
 #### Work Experience
-![Tencent](https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) **Tencent(WeChat Group)** -- `2026.04--2026.08`
+![Tencent](https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) **Tencent(WeChat Group)** -- ![Duration](https://img.shields.io/badge/2025.06--2026.03-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
-![ByteDance](https://img.shields.io/badge/ByteDance-3C8CFF?style=for-the-badge&logo=bytedance&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) **Bytedance(GMPT)** -- `2025.06--2026.03`
+![ByteDance](https://img.shields.io/badge/ByteDance-3C8CFF?style=for-the-badge&logo=bytedance&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) **Bytedance(GMPT)** -- ![Duration](https://img.shields.io/badge/2026.04--2026.11-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 
 
