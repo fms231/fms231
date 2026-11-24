@@ -22,9 +22,10 @@
 
 
 #### Work Experience
-![Tencent](https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) ![Duration](https://img.shields.io/badge/2025.06--2026.03-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white) **Tencent(WeChat Group) —— Fund Transactions**
-
-![ByteDance](https://img.shields.io/badge/ByteDance-3C8CFF?style=for-the-badge&logo=bytedance&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![Duration](https://img.shields.io/badge/2026.04--2026.11-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)  **Bytedance(GMPT) —— User Growth**
+##### Tencent(WeChat Group) —— Fund Transactions
+![Tencent](https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) ![Duration](https://img.shields.io/badge/2025.06--2026.03-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+##### Bytedance(GMPT) —— User Growth
+![ByteDance](https://img.shields.io/badge/ByteDance-3C8CFF?style=for-the-badge&logo=bytedance&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![Duration](https://img.shields.io/badge/2026.04--2026.11-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
 
 
